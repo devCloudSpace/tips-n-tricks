@@ -1,5 +1,5 @@
 # tips-n-tricks
 
-Shit taken from the internet
+For information security and penetration testing, forensics. 
 
-Don't be a skid, tricks are for kids. 
+Useful information gathered from various sources on the internet. 

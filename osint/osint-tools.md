@@ -46,3 +46,4 @@ https://tools.kali.org/information-gathering/eyewitness
 
 https://github.com/maldevel/EmailHarvester
 
+https://le-tools.com/DumpItBlue.html

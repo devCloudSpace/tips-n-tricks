@@ -31,3 +31,5 @@ https://github.com/Ph055a/awesome_osint
 https://osintframework.com/
 
 https://github.com/Greenwolf/social_mapper
+
+https://le-tools.com/DumpItBlue.html

@@ -12,19 +12,15 @@ https://knowem.com/
 
 https://checkusernames.com/
 
-https://stalkscan.com/
-
 https://tineye.com/
 
 https://www.genymotion.com/
-
-Instagram search tool .. https://web.stagram.com/
 
 http://onstrat.com/osint/
 
 https://code.google.com/archive/p/theharvester/
 
-https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.kmtmtyoi48ch
+Bellingcat's OIT https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.kmtmtyoi48ch
 
 https://github.com/Ph055a/awesome_osint
 
@@ -33,3 +29,5 @@ https://osintframework.com/
 https://github.com/Greenwolf/social_mapper
 
 https://le-tools.com/DumpItBlue.html
+
+http://www.httrack.com/

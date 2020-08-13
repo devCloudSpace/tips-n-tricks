@@ -47,3 +47,9 @@ https://tools.kali.org/information-gathering/eyewitness
 https://github.com/maldevel/EmailHarvester
 
 https://le-tools.com/DumpItBlue.html
+
+https://github.com/althonos/InstaLooter
+
+https://github.com/sherlock-project/sherlock
+
+https://github.com/twelvesec/gasmask
